@@ -1,1 +1,1 @@
-[내 소개 페이지](./index.html)
+[링크 텍스트](https://wjsrudals411.github.io/Cordova/)
