@@ -1,1 +1,1 @@
-[링크 텍스트](https://wjsrudals411.github.io/Cordova/)
+[자기소개글](https://wjsrudals411.github.io/Cordova/)
