@@ -1,1 +1,1 @@
-[컴퓨터소프트웨어학과](https://wjsrudals411.github.io/Cordova/)
+[컴퓨터소프트웨어학과](dit-intro.html)
