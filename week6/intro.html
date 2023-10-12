@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>jQuery Mobile</title>
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<style>
+   li { list-style:none; }
+  .picture { list-style:none; padding:0; margin:0; }
+  .picture li { float:left; width:50%;}
+  .picture li a {display:block; margin:5px; border: 1px }
+  .picture li img { display:block; width:50%;  height:auto;}
+  .picture li img:hover { display:block; width:100%;  height:auto;} 
+</style>
+<body>
+    <div data-role="page" id="intro" data-theme="b">
+		<div data-role="header" data-theme="b">
+			<a href="#home" data-icon="arrow-l" data-direction="reverse">처음</a>			
+			<h1> 소개</h1>
+		</div>
+		<div data-role="content">
+				<div  style="text-align:center">
+					<img src="bgdokdo2.png">
+				</div>			
+			<div data-role="collapsible-set" data-theme="b" data-content-theme="e">
+				<div data-role="collapsible" data-collapsed="false">
+					<h3>독도역사</h3>
+					<p>독도(獨島)라는 명칭은 한국어와 중국어 화자들이 일반적으로 사용하는 이름이다. 인도유럽어권에서는 리앙쿠르 바위섬, 일본어권에서는 다케시마 섬이라 부른다. 20세기 초까지는 독도, 석도 또는 마쓰시마라고 불리었다.  ..생략</p>
+				</div>
+				<div data-role="collapsible">
+					<h3>독도지리</h3>
+					<p>독도는 주로 두 개의 섬으로 이루어지며 150 미터 떨어진 두 섬은 동도와 서도로 불린다. 약 90개의 섬과 암초로 이루어진 신생대 화산암으로 구성되어 있다.독도는 동경 약 131゜52′ 위도 약 37゜14′에 위치한다.  ..생략</p>
+				</div>
+				<div data-role="collapsible" >
+					<h3>독도생활</h3>
+					<p>900명이 넘는 한국인 시민들이 이 섬에 거주하며, 실제로 영구거주를 하는 사람은 단 두 사람이다. 한국정부는 거주 주장을 하기 위하여 이들에게 보조금을 지불하고 있다.  ..생략</p>
+				</div>
+			</div>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>독도사랑_홍길동</h1>
+		</div>		
+	</div>
+</body>
+</html>
