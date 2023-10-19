@@ -2,6 +2,14 @@
 ##  🍎 웹앱 프로그래밍 수업
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
 
+## 사용한 언어
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
+
  [메인페이지](https://wjsrudals411.github.io/Cordova/)
 
 | Week | 수업이해 | 과제 |과제 내용 |
