@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>HTML5 개인 포트폴리오 홈페이지</title>
+    <link rel="stylesheet" href="mportpolio.css">
+	<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+	<script src="./lib/code.jquery.com_jquery-1.11.1.min.js"></script>
+	<script src="./lib/code.jquery.com_mobile_1.4.5_jquery.mobile-1.4.5.min.js"></script>
+    <script src="./lib/code.jquery.com_mobile_1.4.5_jquery.mobile-1.4.5.min.css"></script>
+</head>
+<body>
+    <!-- 페이지 1 -->
+    <div data-role="page" id="page1" data-title="첫번째 페이지">
+        <div data-role="header">
+            <h1>전경민 홈페이지</h1>
+        </div>
+        <div data-role="content">
+            <section class="section1">
+                <h3>자기소개</h3>
+                <img id="stu-pic" src="stu.jpg"/>
+                <p>
+                    저는 동의과학대학교 컴퓨터소프트웨어학과에 재학중이고 백엔드 프로그래밍 관련 분야에 관심을 갖고 있는 전경민입니다. 
+                    평소 게임 만드는 것을 즐겨하였고 특히, 자바 기술 관련하여 관심이 많고 다수 개발 경험이 있습니다. 
+                    아직 모르는 것이 많고 알고싶은 것도 많기 때문에 4년제로 편입하여 더 많은 개발 공부를 하고 싶습니다.
+                </p>
+            </section>
+            <a href="#page2" data-role="button" data-transition="fade" data-icon="arrow-r" data-iconpos="right">다음</a>
+        </div>
+        <div data-role="footer">
+            <h4>Copyright &copy; 2023 전경민</h4>
+        </div>
+    </div>
+
+    <!-- 페이지 2 -->
+    <div data-role="page" id="page2" data-title="두번째 페이지">
+        <div data-role="header">
+            <h1>전경민 홈페이지</h1>
+        </div>
+        <div data-role="content">
+            <section class="section2">
+                
+                <h3>인적사항</h3>
+            <ul>
+                <li>성    명 : 전경민</li>
+                <li>생년월일 : 2000. 12. 20</li>
+                <li>주    소 : 부산시 사하구 다대낙조2길100</li>
+                <li>연 락 처 : 010-3694-9587</li>
+                <li>학    력
+                    <table id="year-table" border="1">
+                        <thead>
+                            <tr>
+                                <th>졸업년도</th>
+                                <th>출신학교</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>2013. 2</td><td>몰운대 초등학교</td></tr>
+                            <tr><td>2016. 2</td><td>다대중학교 졸업</td></tr>
+                            <tr><td>2019. 2</td><td>부일전자고등학교 졸업</td></tr>
+                            <tr><td>2024. 2</td><td>동의과학대학교 컴퓨터소프트웨어과 졸업</td></tr>
+                        </tbody>
+                    </table>
+                </li>
+            </ul>
+            </section>
+            <a href="#page3" data-role="button" data-transition="flip" data-icon="arrow-r" data-iconpos="right">다음</a>
+        </div>
+        <div data-role="footer">
+            <h4>Copyright &copy; 2023 전경민</h4>
+        </div>
+    </div>
+
+    <!-- 페이지 3 -->
+    <div data-role="page" id="page3" data-title="세번째 페이지">
+        <div data-role="header">
+            <h1>전경민 홈페이지</h1>
+        </div>
+        <div data-role="content">
+            
+            <section class="section3">
+                
+                <div class="content">
+                    <section class="section1">  
+                        <h3>프로젝트</h3>
+                        <ul>
+                            <li>레고 NXT 실습</li>
+                        </ul>
+                        <video autoplay controls preload="metadata">
+                            <source src="반려동물appvideo.mp4" type="video/ogv"></source>
+                            <source src="반려동물appvideo.mp4" type="video/mp4"></source>
+                            <source src="video.webm" type="video/webm"></source>
+                            브라우저에서 비디오 파일을 지원하지 않습니다. <br/>
+                        </video>
+                        <h3>자격증</h3>
+                        <ul>
+                            <li>정보처리기능사</li>
+                            <li>컴퓨터활용능력1급</li>
+                        </ul>
+                        <h3>수상</h3>
+                        <ul>
+                            <li>SKT NUGU 공모전 장려상</li>
+                            
+                        </ul>
+                    </section>
+                  
+                  </div>
+            </section>
+            <a href="#page4" data-role="button" data-transition="pop" data-icon="arrow-r" data-iconpos="right">다음</a>
+        </div>
+        <div data-role="footer">
+            <h4>Copyright &copy; 2023 전경민</h4>
+        </div>
+    </div>
+
+    
+    <div data-role="page" id="page4" data-title="네번째 페이지">
+        <div data-role="header">
+            <h1>전경민 홈페이지</h1>
+        </div>
+        <div data-role="content">
+            
+            <section class="section4">
+                <h3>세미나(연수), 인턴쉽, 봉사</h3>
+                <h3>세미나(연수)</h3>
+		<ul>
+			<li>참석 예정</li>
+			
+		</ul>
+			
+		<h3>인턴쉽</h3>
+		<ul>
+			<li>참여 예정</li>
+		</ul>		
+		<h3>봉사</h3>
+		<ul>
+			<li>참여 예정	</li>
+			
+		</ul>
+	</section>
+	
+            </section>
+            <a href="#page1" data-transition="slide" data-role="button" data-icon="arrow-r" data-iconpos="right">처음으로</a>
+        </div>
+        <div data-role="footer">
+            <h4>Copyright &copy; 2023 전경민</h4>
+        </div>
+    </div>
+</body>
+</html>
