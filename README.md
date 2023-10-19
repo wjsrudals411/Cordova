@@ -10,7 +10,7 @@
 </div>
 
 
- [메인페이지](https://wjsrudals411.github.io/Cordova/)
+ [자기소개페이지](https://wjsrudals411.github.io/Cordova/)
 
 | Week | 수업이해 | 과제 |과제 내용 |
 | ------ | -- | -- |----------- |
