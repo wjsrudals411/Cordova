@@ -1,6 +1,6 @@
 
 ##  🍎 웹앱 프로그래밍 수업
-## <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
 
 ## 사용한 언어
 <div align="center">
