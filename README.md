@@ -2,7 +2,7 @@
 ##  🍎 웹앱 프로그래밍 수업
 ## <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
 
-## 메인페이지(https://wjsrudals411.github.io/Cordova/)
+ 메인페이지(https://wjsrudals411.github.io/Cordova/)
 
 | Week | 수업이해 | 과제 |과제 내용 |
 | ------ | -- | -- |----------- |
