@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
 
-메인페이지(https://wjsrudals411.github.io/Cordova/)
+##  🍎 웹앱 프로그래밍 수업
+## <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=앱웹개발수업메인페이지&fontSize=40" />
 
-#1 2주차 학습내용 바로가기 (https://wjsrudals411.github.io/Cordova/week2/)
+## 메인페이지(https://wjsrudals411.github.io/Cordova/)
 
-##  🍎 iOS 커리큘럼
-
-| Week | 세미나 | 과제 |커리큘럼 내용 |
+| Week | 수업이해 | 과제 |과제 내용 |
 | ------ | -- | -- |----------- |
-| 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| 2주차 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
-| 3주차 | ☑️ | ☑️ | TableView, CollectionView, 데이터 전달 방식 |
-| 4주차 | ☑️ | ☑️ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
+| 2주차(https://wjsrudals411.github.io/Cordova/week2/) | ☑️ | ☑️ | 기본적인 HTML과 CSS 사용 |
+| 3주차(https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html) | ☑️ | ☑️ | 기본적인 HTML과 CSS를 이용한 자기소개글 |
+| 5주차(https://wjsrudals411.github.io/Cordova/week5/report5) | ☑️ | ☑️ | 페이지네이션을 이용한 자기소개글 |
+| 6주차(https://wjsrudals411.github.io/Cordova/week6/10_12) | ☑️ | ☑️ | 2,3,5 주차 수업에서 배운 내용을 모두 포함한 자기소개글 |
