@@ -5,7 +5,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-[자기 소개글](https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html)
+[자기 소개글(페이지로 이동하기)](https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html)
 
 
 자신의 소개와 연락처![image](https://github.com/wjsrudals411/Cordova/assets/103473959/a6d020dc-3bb4-414a-af86-183aef9c7017)
