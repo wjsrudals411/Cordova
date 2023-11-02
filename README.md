@@ -18,3 +18,4 @@
 | [3주차](https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html) | ☑️ | ☑️ | 기본적인 HTML과 CSS를 이용한 자기소개글 |
 | [5주차](https://wjsrudals411.github.io/Cordova/week5/report5) | ☑️ | ☑️ | 페이지네이션을 이용한 자기소개글 |
 | [6주차](https://wjsrudals411.github.io/Cordova/week6/10_12)| ☑️ | ☑️ | 2,3,5 주차 수업에서 배운 내용을 모두 포함한 자기소개글 |
+| [8주차](https://wjsrudals411.github.io/Cordova/week6/10_12)| ☑️ | ☑️ | 자바스크립트와 제이쿼리를 이용하여 갤러리 꾸미기 |
