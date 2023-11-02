@@ -11,4 +11,5 @@
 
 ##  [학과소개글 바로가기](https://wjsrudals411.github.io/Cordova/week8/10_12)
 
-학과소개 화면![image](https://github.com/wjsrudals411/Cordova/assets/103473959/ceefcb69-106c-4c6e-933a-9af20c38380b)
+사진들![image]((https://github.com/wjsrudals411/Cordova/assets/103473959/303b95f5-0ec0-48da-8e30-b7c34541a71b))
+모달창에서 확대된 사진![image2](https://github.com/wjsrudals411/Cordova/assets/103473959/e7b1d9c6-107d-4e82-8013-8fcb7b329b9b)
