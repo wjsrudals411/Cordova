@@ -12,7 +12,7 @@
 
  [자기소개페이지](https://wjsrudals411.github.io/Cordova/)
 
-| Week | 수업이해 | 과제 |과제 내용 |
+| Week | 수업이해 | 과제 |과제 내용 | 해당폴더로 이동하기 |
 | ------ | -- | -- |----------- |
 | [2주차](https://wjsrudals411.github.io/Cordova/week2/) | ☑️ | ☑️ | 기본적인 HTML과 CSS 사용 |
 | [3주차](https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html) | ☑️ | ☑️ | 기본적인 HTML과 CSS를 이용한 자기소개글 |
