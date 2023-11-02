@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=6주차과제 갤러리 꾸미기&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=6주차_과제_갤러리_꾸미기&fontSize=40" />
 
 사용한 언어
 <div align="center">
