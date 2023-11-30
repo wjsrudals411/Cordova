@@ -24,6 +24,8 @@ Cordova를 사용해서 휴대폰, 에뮬레이터에서 웹 페이지 연동하
 
 
 [학과소개글 폴더 바로가기](https://github.com/wjsrudals411/Cordova/tree/main/week8)
+
+
 [학과소개글 사이트 바로가기](https://wjsrudals411.github.io/Cordova/week8/10_12)
 ## 학과소개
 ![학과소개1](https://github.com/wjsrudals411/Cordova/assets/103473959/7d1b93d3-2fd8-4b87-9c61-1675b2214ea3)
@@ -33,6 +35,8 @@ Cordova를 사용해서 휴대폰, 에뮬레이터에서 웹 페이지 연동하
 
 
 [내가가고싶은 회사 소개 폴더 바로가기](https://github.com/wjsrudals411/Cordova/tree/main/week9)
+
+
 [내가가고싶은 회사 소개 사이트 바로가기](https://wjsrudals411.github.io/Cordova/week9/10_12)
 ## 내가가고싶은 회사 소개
 ![회사소개1](https://github.com/wjsrudals411/Cordova/assets/103473959/36286bd7-a3a9-4f1c-8f69-9d104e26e53e)
