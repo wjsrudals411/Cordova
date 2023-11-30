@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=10주차_Cordova를이용하여웹앱사이트_확인하기&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=10주차_Cordova를이용한웹앱사이트&fontSize=40" />
 
 사용한 언어
 <div align="center">
