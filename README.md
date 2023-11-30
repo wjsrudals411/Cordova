@@ -17,6 +17,7 @@
 | [2주차](https://wjsrudals411.github.io/Cordova/week2/) | ☑️ | ☑️ | 기본적인 HTML과 CSS 사용 | [2주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week2)
 | [3주차](https://wjsrudals411.github.io/Cordova/week3/sourcecode/index.html) | ☑️ | ☑️ | 기본적인 HTML과 CSS를 이용한 자기소개글 | [3주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week3)
 | [5주차](https://wjsrudals411.github.io/Cordova/week5/report5) | ☑️ | ☑️ | 페이지네이션을 이용한 자기소개글 |[5주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week5)
-| [6주차](https://wjsrudals411.github.io/Cordova/week6/10_12)| ☑️ | ☑️ | 2,3,5 주차 수업에서 배운 내용을 모두 포함한 자기소개글 | [6주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week6)
+| [6주차](https://wjsrudals411.github.io/Cordova/week6/10_12)| ☑️ | ☑️ | 2,3,5 주차 수업에서 배운것을 이용한 학과소개글 | [6주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week6)
 | [8주차](https://wjsrudals411.github.io/Cordova/week8/10_12)| ☑️ | ☑️ | 자바스크립트와 제이쿼리를 이용하여 갤러리 꾸미기 | [8주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week8)
 | [9주차](https://wjsrudals411.github.io/Cordova/week9/10_12)| ☑️ | ☑️ | JSON과 OPENAPI를 사용하여 내가 가고싶은 회사 웹사이트 만들기 | [9주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week9)
+| [10주차](https://wjsrudals411.github.io/Cordova/week10/10_12)| ☑️ | ☑️ | Cordova를 이용해서 앞서 배운 웹페이지들을 앱으로 확인하기 | [10주차 폴더](https://github.com/wjsrudals411/Cordova/tree/main/week10)
