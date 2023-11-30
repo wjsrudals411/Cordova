@@ -24,22 +24,30 @@ Cordova를 사용해서 휴대폰, 에뮬레이터에서 웹 페이지 연동하
 ![자기소개4](https://github.com/wjsrudals411/Cordova/assets/103473959/71d36364-a2ea-4239-9113-b7f2931dd45f)
 
 
+
+## 학과소개
+
 [학과소개글 폴더 바로가기](https://github.com/wjsrudals411/Cordova/tree/main/week8)
 
 
 [학과소개글 사이트 바로가기](https://wjsrudals411.github.io/Cordova/week8/10_12)
-## 학과소개
+
+
 ![학과소개1](https://github.com/wjsrudals411/Cordova/assets/103473959/7d1b93d3-2fd8-4b87-9c61-1675b2214ea3)
 ![학과소개2](https://github.com/wjsrudals411/Cordova/assets/103473959/2785f34f-1873-4e80-b868-410d6f30d6a6)
 ![학과소개3](https://github.com/wjsrudals411/Cordova/assets/103473959/b2159c26-ab5c-4d51-899f-3ceeab2c9eed)
 ![학과소개4](https://github.com/wjsrudals411/Cordova/assets/103473959/bc5cb447-1426-496a-9648-a17011eb195e)
 
 
+## 내가가고싶은 회사 소개
+
+
 [내가가고싶은 회사 소개 폴더 바로가기](https://github.com/wjsrudals411/Cordova/tree/main/week9)
 
 
 [내가가고싶은 회사 소개 사이트 바로가기](https://wjsrudals411.github.io/Cordova/week9/10_12)
-## 내가가고싶은 회사 소개
+
+
 ![회사소개1](https://github.com/wjsrudals411/Cordova/assets/103473959/36286bd7-a3a9-4f1c-8f69-9d104e26e53e)
 ![회사소개2](https://github.com/wjsrudals411/Cordova/assets/103473959/f73076ba-9803-4800-b7b7-f334413bccc6)
 ![회사소개3](https://github.com/wjsrudals411/Cordova/assets/103473959/ec8fe614-47d8-4b18-85c5-24f2c405d46b)
