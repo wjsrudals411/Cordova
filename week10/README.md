@@ -13,6 +13,8 @@ Cordova를 사용해서 휴대폰, 에뮬레이터에서 웹 페이지 연동하
 ##  [사이트주소](https://wjsrudals411.github.io/Cordova/week10/10_12)
 
 [자기소개글 폴더 바로가기](https://github.com/wjsrudals411/Cordova/tree/main/week5)
+
+
 [자기소개글 사이트 바로가기](https://wjsrudals411.github.io/Cordova/week5/report5)
 ## 자기소개  
 ![자기소개1](https://github.com/wjsrudals411/Cordova/assets/103473959/5c7fea14-909a-46b5-bb8e-2db3d5b77e90)
